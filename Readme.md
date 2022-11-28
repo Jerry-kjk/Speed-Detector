@@ -7,7 +7,7 @@ A program that takes as input the speed of a car e.g 80. If the speed is less th
 
 ******
 ## Screenshot
-![speed] (https://raw.githubusercontent.com/Jerry-kjk/Speed-Detector/main/Images/speed.jpg)
+![speed] (https://github.com/Jerry-kjk/Speed-Detector/commit/95f0a640274849c612572234cc2265b76dd8b6cc)
 ## Setup Instruction
 ### Requirements
 * [Lang](lang Url)
