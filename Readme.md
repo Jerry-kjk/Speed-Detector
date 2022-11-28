@@ -1,19 +1,13 @@
-# Student-Grade-Generator
+# Speed-Detector
 *****
-### Author : Mugo Joseph Wamiti
+### Author : Jérémy KAJIK
 ****
 ## Project Description
-A program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade as follows: 
+A program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
 
-A > 79, B > 60 to 79, C > 59 to 49, D > 40 to 49, E > less 40.
 ******
-
 ## SCREENSHOTS
-- link 1
-- link 2
 
-
-********
 ## SetUp Instruction
 ### Requirements
 * [Lang](lang Url)
@@ -52,13 +46,12 @@ Or you can access the web application directly via this [LINK.](link.com/)
 ## Technologies Used
 1. HTML
 2. MdBootstrap
-3. HTML
-4. CSS
-5. JavaScript
+3. CSS
+4. JavaScript
 *****
 ## Contact Information
-* Email : example@gmail.com
+* Email : jeremy.kajik@student.moringaschool.com
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) YEAR Author
+Copyright (c) 2022 Jerry KAJIK
